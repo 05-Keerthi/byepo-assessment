@@ -1,0 +1,27 @@
+{
+  "name": "keerthana",
+  "email": "keerthana@yopmail.com",
+  "password": "keerthana",
+  "role": "SUPER_ADMIN"
+}
+
+-- org creation
+{
+  "name": "checking",
+  "adminEmail": "byepoadmin@yopmail.com"
+}
+
+{
+  "name": "Admin byepo",
+  "email": "byepoadmin@yopmail.com",
+  "password": "admin@123",
+  "role": "ORG_ADMIN",
+  "organization": "698d8b06f6be6750bc9971b0",
+  "secretCode": "815e4ab0"
+}
+
+{
+  "name": "end user_byepo",
+  "email": "byepo_end_user@yopmail.com",
+  "password": "enduser"
+}
