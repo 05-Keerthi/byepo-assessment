@@ -1,7 +1,7 @@
-# Frontend – Software Engineer II Assessment
+# Frontend – Feature Flag Management System (Multi-Tenant RBAC)
 
 ## 📌 Project Overview
-This frontend application was developed as part of the Software Engineer II technical assessment.  
+This frontend application of A multi-tenant Feature Flag Management System .  
 It is built using React and Vite and communicates with the backend API.
 
 ---
@@ -11,7 +11,6 @@ It is built using React and Vite and communicates with the backend API.
 - Vite
 - JavaScript
 - Axios (for API integration)
-- CSS / Tailwind CSS (if applicable)
 
 ---
 
